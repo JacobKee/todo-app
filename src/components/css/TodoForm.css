@@ -1,0 +1,10 @@
+.todo-forminput {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border: 1px solid black;
+    margin: 5px;
+    height: 30px;
+    width: 350px;
+    padding-left: 2%
+}
